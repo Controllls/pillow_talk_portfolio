@@ -1,4 +1,5 @@
 # pillow_talk_portfolio
+![image](https://user-images.githubusercontent.com/53941701/232287870-f8870da9-6df2-458b-b70f-ae9f3f2d242b.png)
 
 
 # 필로우톡 스토어 링크
